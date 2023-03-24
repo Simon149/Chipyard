@@ -1,3 +1,9 @@
+
+organization := "UZL"
+
+version := "1.0"
+
+name := "module"
 scalaVersion := "2.12.13"
 
 scalacOptions ++= Seq(
